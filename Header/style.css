@@ -1,0 +1,14 @@
+.positioned {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    border: 4mm ridge rgba(233, 89, 233, 0.596);
+    background: rgba(94, 195, 202, 0.952);
+   }
+.page-header {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    border: 4mm ridge rgba(233, 89, 233, 0.596);
+    background: rgba(94, 195, 202, 0.952);
+}
