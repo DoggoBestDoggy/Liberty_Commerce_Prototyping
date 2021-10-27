@@ -1,0 +1,17 @@
+.pro {
+    border: 10px ridge rgb(115, 255, 0);
+    background-color: rgb(19, 135, 170);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    background-color: #1c87c9;
+    box-shadow: 0 5px 0 #105cad;
+    color: white;
+   padding: 1em 1.5em;
+   position: relative;
+   text-decoration: none;
+   display: inline-block;
+}
