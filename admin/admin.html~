@@ -1,0 +1,15 @@
+<html>
+  <header>
+    <link rel="stylesheet" href="style.css">
+    <title>figurimam admin</title>
+  </header>
+  <body>
+    <fieldset>
+      <legend><h2>ajout produit</h2></legend>
+      <label>nom produit:<input type="text"></label><br>
+      <label>description:<input type="text"></label><br>
+      <label>prix<input type="text"></label><br>
+      <label>image<input type="link"></label><br>
+    </fieldset>
+  </body>
+</html>
